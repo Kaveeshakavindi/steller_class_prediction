@@ -9,7 +9,7 @@ This model was built to classify steller class as a submission for the the www.k
 **outliers** : find outliers using seaborn boxplot
 
 **Boxplot of u**
-![Alt text](https://github.com/Kaveeshakavindi/steller_class_prediction/blob/main/conf.png)
+![Alt text](https://github.com/Kaveeshakavindi/steller_class_prediction/blob/main/u.png)
 
 **Boxplot of g**
 ![Alt text](https://github.com/Kaveeshakavindi/steller_class_prediction/blob/main/g.png)
