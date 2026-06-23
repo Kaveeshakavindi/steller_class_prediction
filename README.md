@@ -5,6 +5,7 @@ This model was built to classify steller class as a submission for the the www.k
 ## Files
 ### preprocess.py
 **one hot encoding** : convert each feature categorical column into numeric data
+
 **outliers** : find outliers using seaborn boxplot
 
 **Boxplot of u**
