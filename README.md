@@ -27,6 +27,7 @@ This model was built to classify steller class as a submission for the the www.k
 ![Alt text](https://github.com/Kaveeshakavindi/steller_class_prediction/blob/main/images/redshift.png)
 
 **robust_scaler_**: reduce impact of outliers using robust scaler
+![Alt text](https://github.com/Kaveeshakavindi/steller_class_prediction/blob/main/images/scale.png)
 
 ### model.py
 The model based on Random Forest Classifier achived 96% accuracy. 
