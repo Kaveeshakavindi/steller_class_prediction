@@ -9,28 +9,28 @@ This model was built to classify steller class as a submission for the the www.k
 **outliers** : find outliers using seaborn boxplot
 
 **Boxplot of u**
-![Alt text]('u.png')
+![Alt text](https://github.com/Kaveeshakavindi/steller_class_prediction/blob/main/conf.png)
 
 **Boxplot of g**
-![Alt text]('g.png')
+![Alt text](https://github.com/Kaveeshakavindi/steller_class_prediction/blob/main/g.png)
 
 **Boxplot of r**
-![Alt text]('r.png')
+![Alt text](https://github.com/Kaveeshakavindi/steller_class_prediction/blob/main/r.png)
 
 **Boxplot of i**
-![Alt text]('i.png')
+![Alt text](https://github.com/Kaveeshakavindi/steller_class_prediction/blob/main/i.png)
 
 **Boxplot of z**
-![Alt text]('z.png')
+![Alt text](https://github.com/Kaveeshakavindi/steller_class_prediction/blob/main/z.png)
 
 **Boxplot of redshift**
-![Alt text]('redshift.png')
+![Alt text](https://github.com/Kaveeshakavindi/steller_class_prediction/blob/main/redshift.png)
 
 **robust_scaler_**: reduce impact of outliers using robust scaler
 
 ### model.py
 The model based on Random Forest Classifier achived 96% accuracy. 
 
-![Alt text]('conf.png')
+![Alt text](https://github.com/Kaveeshakavindi/steller_class_prediction/blob/main/conf.png)
 
 
