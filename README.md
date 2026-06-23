@@ -34,3 +34,11 @@ The model based on Random Forest Classifier achived 96% accuracy.
 ![Alt text](https://github.com/Kaveeshakavindi/steller_class_prediction/blob/main/images/conf.png)
 
 
+@misc{playground-series-s6e6,
+    author = {Yao Yan, Walter Reade, Elizabeth Park},
+    title = {Predicting Stellar Class},
+    year = {2026},
+    howpublished = {\url{https://kaggle.com/competitions/playground-series-s6e6}},
+    note = {Kaggle}
+}
+
